@@ -6,5 +6,5 @@ The goal of this project is to create a static site generator that can convert m
 ## progress
 - [x] Nodes
 - [ ] Inline 
-- [ ] BLocks
+- [ ] Blocks
 - [ ] Website
